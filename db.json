@@ -12,12 +12,12 @@
 		},
 		{
 			"id": "3",
-			"column_id": "1",
+			"column_id": "2",
 			"title": "Make breakfast"
 		},
 		{
 			"id": "4",
-			"column_id": "1",
+			"column_id": "2",
 			"title": "Paint the barn"
 		},
 		{
@@ -27,7 +27,7 @@
 		},
 		{
 			"id": "6",
-			"column_id": "1",
+			"column_id": "3",
 			"title": "Clean the house"
 		}
 	]
