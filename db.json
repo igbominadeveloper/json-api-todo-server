@@ -1,5 +1,6 @@
 {
-	"tasks": [{
+	"tasks": [
+	  	{
 			"id": "1",
 			"column_id": "1",
 			"title": "Create a new project"
